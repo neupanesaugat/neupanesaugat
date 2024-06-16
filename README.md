@@ -1,16 +1,31 @@
-## Hi there 👋
+## Social Media:
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/SRKain.Saugat/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/saugatneupane_/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saugat-neupane-621a7326a/)
+[![X](https://img.shields.io/badge/-X-333333?style=flat&logo=x&logoColor=white)](https://x.com/saugatneupane_?s=09)
 
-<!--
-**neupanesaugat/neupanesaugat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack:
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
+![Data Science](https://img.shields.io/badge/-Data%20Science-333333?style=flat&logo=databricks)
+![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
-Here are some ideas to get you started:
+## GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Streak:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)](https://git.io/streak-stats)
+
+## Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+
+## Top Contribution Repo:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-top-repo&theme=dark)](https://github.com/yourusername/your-top-repo)
