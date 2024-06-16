@@ -18,8 +18,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
-## GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neupanesaugat&show_icons=true&theme=dark)
 
 ## GitHub Streak:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neupanesaugat&theme=dark)](https://git.io/streak-stats)
@@ -27,3 +25,6 @@
 ## Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neupanesaugat&layout=compact&theme=dark)
 
+
+## GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neupanesaugat&show_icons=true&theme=dark)
