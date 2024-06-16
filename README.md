@@ -9,6 +9,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
 ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
@@ -27,5 +28,3 @@
 ## Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neupanesaugat&layout=compact&theme=dark)
 
-## Top Contribution Repo:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neupanesaugat&repo=your-top-repo&theme=dark)](https://github.com/neupanesaugat/your-top-repo)
