@@ -1,3 +1,6 @@
+### About Me:
+(☕)=>{💻;} Turning coffee into code since 2021.
+
 ## Social Media:
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/SRKain.Saugat/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/saugatneupane_/)
@@ -10,9 +13,11 @@
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat&logo=machine-learning)
 ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
+![Tesseract OCR](https://img.shields.io/badge/-Tesseract-333333?style=flat&logo=tesseract)
 ![Data Science](https://img.shields.io/badge/-Data%20Science-333333?style=flat&logo=databricks)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
