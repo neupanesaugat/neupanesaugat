@@ -11,7 +11,7 @@
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
 ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
-[![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)](https://aws.amazon.com/)
+[![AWS](https://img.shields.io/badge/AWS-333333?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
 ![Data Science](https://img.shields.io/badge/-Data%20Science-333333?style=flat&logo=databricks)
