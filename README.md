@@ -19,13 +19,13 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 ## GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neupanesaugat&show_icons=true&theme=dark)
 
 ## GitHub Streak:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neupanesaugat&theme=dark)](https://git.io/streak-stats)
 
 ## Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neupanesaugat&layout=compact&theme=dark)
 
 ## Top Contribution Repo:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-top-repo&theme=dark)](https://github.com/yourusername/your-top-repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neupanesaugat&repo=your-top-repo&theme=dark)](https://github.com/neupanesaugat/your-top-repo)
