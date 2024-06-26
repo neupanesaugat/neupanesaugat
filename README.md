@@ -19,7 +19,6 @@
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras) 
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv) 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow) 
-![Data Science](https://img.shields.io/badge/-Data%20Science-05122A?style=flat&logo=data%20science) 
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda) 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5) 
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3) 
