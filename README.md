@@ -8,20 +8,25 @@
 [![X](https://img.shields.io/badge/-X-333333?style=flat&logo=x&logoColor=white)](https://x.com/saugatneupane_?s=09)
 
 ## Tech Stack:
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
-![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
-![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-![Data Science](https://img.shields.io/badge/-Data%20Science-333333?style=flat&logo=databricks)
-![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) 
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express) 
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter) 
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B) 
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c) 
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter) 
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras) 
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv) 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow) 
+![Data Science](https://img.shields.io/badge/-Data%20Science-05122A?style=flat&logo=data%20science) 
+![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda) 
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5) 
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3) 
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) 
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+
 
 
 ## GitHub Streak:
