@@ -12,6 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) 
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) 
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter) 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B) 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c) 
@@ -25,6 +26,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+
 
 
 
